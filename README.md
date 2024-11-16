@@ -1,2 +1,1 @@
-# .github
-A clone of DeckFusion
+# Cloned DeckFusion
