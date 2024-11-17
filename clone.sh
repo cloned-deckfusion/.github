@@ -15,6 +15,9 @@ git clone git@github.com:cloned-deckfusion/deckfusion.git
 # Clone DeckFusion backend repo
 git clone git@github.com:cloned-deckfusion/deckfusion-backend.git
 
+# Clone DeckFusion backend database repo
+git clone git@github.com:cloned-deckfusion/deckfusion-backend-db.git
+
 # Clone DeckFusion landing repo
 git clone git@github.com:cloned-deckfusion/deckfusion-landing.git
 
