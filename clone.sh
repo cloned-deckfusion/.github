@@ -18,7 +18,7 @@ git clone git@github.com:cloned-deckfusion/deckfusion-landing.git
 # Enter development repo
 cd deckfusion
 
-# Make project
+# Make project development environment
 make
 
 # Delete clone script
