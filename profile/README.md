@@ -20,7 +20,7 @@ Get started by cloning the relevant repositories onto your local machine.
 Navigate to the directory in which you would like this project to be located and run the following script:
 
 ```bash
-curl -o clone.sh https://raw.githubusercontent.com/cloned-deckfusion/.github/refs/heads/main/clone.sh && ./clone.sh
+curl -o clone.sh https://raw.githubusercontent.com/cloned-deckfusion/.github/refs/heads/main/clone.sh && chmod +x clone.sh && ./clone.sh
 ```
 
 Once the script is finished executing, navigate to http://localhost:8000/ in your preferred browser.
