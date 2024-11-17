@@ -13,7 +13,7 @@ cd cloned-deckfusion
 git clone git@github.com:cloned-deckfusion/deckfusion.git
 
 # Clone DeckFusion backend repo
-git clone git@github.com:cloned-deckfusion/deckfusion-landing.git
+git clone git@github.com:cloned-deckfusion/deckfusion-backend.git
 
 # Clone DeckFusion landing repo
 git clone git@github.com:cloned-deckfusion/deckfusion-landing.git
