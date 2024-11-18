@@ -1,5 +1,13 @@
 # Cloned DeckFusion
 
+This is a minimal full-stack clone of [DeckFusion](https://www.deckfusion.com/), written in Python and implemented in Django.
+
+Please note, as this is not a full clone, the nav links in the header will redirect to the real webpage.
+
+## Live Demo
+
+A live demo of this project hosted on Heroku can be found [here](https://cloned-deckfusion-landing-421fd7ce60bd.herokuapp.com/).
+
 ## Local Development
 
 ### Prerequisites
